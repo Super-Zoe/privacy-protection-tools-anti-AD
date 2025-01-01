@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250101024124
+!Version: 20250102024130
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 82557
+!Total lines: 82590
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
@@ -368,7 +368,6 @@
 ||07780778.com^
 ||0792gdst.com^
 ||07a1624bd7.com^
-||07c225f3.online^
 ||07d0bc4a48.com^
 ||07dy.cc^
 ||07e197.site^
@@ -2826,6 +2825,7 @@
 ||8exx9qtuojv1.shop^
 ||8f2b4c98e7.com^
 ||8feichai.com^
+||8fo.icu^
 ||cfdac.8g0ymk.cn^
 ||8gl.com.cn^
 ||8gra3.icu^
@@ -3410,6 +3410,7 @@
 ||ablecolony.com^
 ||a8.ablenet.jp^
 ||ablestsigma.click^
+||abletopreseyna.com^
 ||ablida.net^
 ||plausibel.ablis.net^
 ||ablitleoor.com^
@@ -7529,6 +7530,7 @@
 ||app.respond.aonhewitt.com^
 ||aonunited.com^
 ||om.aopa.org^
+||aopapp.com^
 ||links.aopcongress.com^
 ||aopcoms.aoptec.com^
 ||aorms.com^
@@ -11063,6 +11065,7 @@
 ||text.benefitsatwork.ch^
 ||text.benefitsatwork.pl^
 ||text.benefitsatwork.pt^
+||benefitssheasha.com^
 ||benelph.de^
 ||benengagewriggle.com^
 ||marketing.beneplace.com^
@@ -13708,7 +13711,7 @@
 ||admsapi.businessweekly.com.tw^
 ||cts.businesswire.com^
 ||buskerreshoes.website^
-||33serve.bussyhunter.com^
+||s.bussyhunter.com^
 ||busticsfibrose.com^
 ||bustlefungus.com^
 ||bustlemiszone.com^
@@ -13835,6 +13838,7 @@
 ||bxacmsvmxb.com^
 ||vezsyr.bxblue.com.br^
 ||bxg68.com^
+||bxheifoe.icu^
 ||bxlmrl.xyz^
 ||bxmazls.icu^
 ||bxmns.com^
@@ -18626,6 +18630,7 @@
 ||commonwealthproficient.com^
 ||tr.communautes-mediametrie.fr^
 ||innovation.communica.world^
+||communication3x.fun^
 ||news.communications-rmngp.fr^
 ||marketing.communityassociationmanagement.com^
 ||links.communitycarehelp.com^
@@ -19885,6 +19890,7 @@
 ||cribbewildered.com^
 ||tag.cribnotes.jp^
 ||r.cricbet.co^
+||cridotty.com^
 ||criesstarch.com^
 ||crigroik.com^
 ||crimblepitbird.shop^
@@ -28914,6 +28920,7 @@
 ||foolproofanatomy.com^
 ||foomaque.net^
 ||fooptoat.com^
+||foorcdn.com^
 ||klfxq.kieedi.foosheng.com^
 ||foostoug.com^
 ||sanl.footaction.com^
@@ -29985,6 +29992,7 @@
 ||fxjnfn.xyz^
 ||fxjpbpxvfofa.com^
 ||fxmnba.com^
+||fxmvxhwcusaq.com^
 ||a.fxnetworks.com^
 ||b.fxnetworks.com^
 ||sw88.fxnetworks.com^
@@ -31582,6 +31590,7 @@
 ||af.gmobile.biz^
 ||gmodmp.jp^
 ||gmossp-sp.jp^
+||gmso01010oka.top^
 ||gmso12251oka.top^
 ||gmso12261oka.top^
 ||gmso12271oka.top^
@@ -31946,6 +31955,7 @@
 ||trakksocial.googlecode.com^
 ||googlecommerce.com^
 ||googleflights-cn.net^
+||googlehm.cc^
 ||googleminiapps.cn^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
@@ -38675,6 +38685,7 @@
 ||iyisloo.top^
 ||iyjqgpo.top^
 ||get-staging.iynk.com^
+||iyoztgdrxbcs.com^
 ||iyqaosd.com^
 ||iystrbftlwif.icu^
 ||dev.iyuba.cn^
@@ -41911,6 +41922,7 @@
 ||kveww.com^
 ||kvexx.com^
 ||kvezz.com^
+||kvgbtozgcmox.com^
 ||kvhee.com^
 ||kvhrrr.top^
 ||kvhtsvy.xyz^
@@ -44108,6 +44120,7 @@
 ||loomplyer.com^
 ||loomscald.com^
 ||loomspreadingnamely.com^
+||looodrxopzvi.com^
 ||a8.looom.jp^
 ||a8.looop-denki.com^
 ||loooutlet.com^
@@ -44286,6 +44299,7 @@
 ||loyeesihighlyreco.info^
 ||lozeecalreek.com^
 ||lozmtk.cn^
+||lozna.xyz^
 ||lp-preview.net^
 ||lp247p.com^
 ||lp3tdqle.com^
@@ -50807,6 +50821,7 @@
 ||informatie.mail.nn.nl^
 ||gmufag.nn.ru^
 ||tben.nnchangyi.com^
+||nnfbxz.icu^
 ||e.nnfiy.com^
 ||m.nnfiy.com^
 ||nnightherefl.info^
@@ -50887,6 +50902,7 @@
 ||nolduniques.shop^
 ||intel.web.noleggiare.it^
 ||dopljl.noleggiosemplice.it^
+||nolojo.com^
 ||ea.nomade-aventure.com^
 ||nomadodiouscherry.com^
 ||nomadsbrand.com^
@@ -53099,6 +53115,7 @@
 ||v.oq68.com^
 ||e.oq7d6b.cn^
 ||oqaejin.icu^
+||oqbaxgolrabl.com^
 ||oqddkgixmqhovv.xyz^
 ||oqdkftnubqa.com^
 ||oqejupqb.xyz^
@@ -58332,6 +58349,7 @@
 ||qcjslm.com^
 ||qckeumrwft.xyz^
 ||qcl777.com^
+||qclimiy.top^
 ||log.qvb.qcloud.com^
 ||report.qcloud.com^
 ||car.qcmrjx.com^
@@ -58374,6 +58392,7 @@
 ||qeeocy.xyz^
 ||za.qeeq.com^
 ||qekgcdcjr000.fun^
+||qeknikny.com^
 ||img2.qekun.com^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
@@ -60724,6 +60743,7 @@
 ||responserver.com^
 ||responsetap.com^
 ||responsibleprohibition.com^
+||responsibleroyalscrap.com^
 ||responsiveproportion.com^
 ||responsiverender.com^
 ||responsys.net^
@@ -60949,6 +60969,7 @@
 ||rfihub.net^
 ||rfinidtirz.com^
 ||rfity.com^
+||rfjuoqrbnknop.com^
 ||rfnvqpo.xyz^
 ||rfogqbystvgb.com^
 ||rfpx1.com^
@@ -62992,6 +63013,7 @@
 ||scissorsstatement.com^
 ||scissorsstitchdegrade.com^
 ||scissorwailed.com^
+||sckjzfahoizclt.com^
 ||tune.sckmediatv.com^
 ||sckxppzdm.com^
 ||sckyf.com^
@@ -64400,6 +64422,7 @@
 ||shouji360.org^
 ||dps.shouji56.com^
 ||shoujiawang.cn^
+||shoulderadmonishstore.com^
 ||shouldercommandmentlimitless.com^
 ||shouldmeditate.com^
 ||shouldscornful.com^
@@ -65673,6 +65696,7 @@
 ||snhtvtp.com^
 ||sni-dat.com^
 ||kszuxn.snidel.com^
+||snidestpaluli.shop^
 ||adsales.snidigital.com^
 ||snifdlab.top^
 ||snigelweb.com^
@@ -69387,6 +69411,7 @@
 ||tagm.tchibo.de^
 ||images.e.tcichemicals.com^
 ||tcimg.com^
+||tclimii.top^
 ||tcloaksandtheirclean.com^
 ||sanalytics.tcm.com^
 ||sanalytics.tcmuk.tv^
@@ -72671,6 +72696,7 @@
 ||tuberay.com^
 ||tubestrap.com^
 ||tubetitties.com^
+||gpt.tubetruck.com^
 ||q.tubetruck.com^
 ||tubeultra.com^
 ||tubewalk.com^
@@ -72953,6 +72979,7 @@
 ||stats.twhl.xyz^
 ||twi-hjritecl.world^
 ||temp.twicomi.com^
+||twiebayed.com^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
 ||images.en25content.twilio.com^
@@ -73494,6 +73521,7 @@
 ||marketing.teamspirit.uk.com^
 ||metrix.avon.uk.com^
 ||smetrix.avon.uk.com^
+||uk0.icu^
 ||uk08i.top^
 ||uk8866.cn^
 ||ukankingwithea.com^
@@ -73746,6 +73774,7 @@
 ||understandablephilosophypeeves.com^
 ||understandassure.com^
 ||understandcomplainawestruck.com^
+||understanding3x.fun^
 ||understandingspurt.com^
 ||understandskinny.com^
 ||understatedworking.com^
@@ -80411,6 +80440,7 @@
 ||yd126.com^
 ||ydagjjgqxmrlqjj.xyz^
 ||ydazjxso.xyz^
+||ydccmwrpnfy.com^
 ||yddbysa.xyz^
 ||yddjmpjo.xyz^
 ||yddrqwq.xyz^
@@ -82108,6 +82138,7 @@
 ||zograughoa.net^
 ||zogrepsili.com^
 ||pagesense-collect.zoho.com^
+||zoiefwqhcaczun.com^
 ||zojyob.icu^
 ||zokaukree.net^
 ||zokrodes.com^
@@ -82324,6 +82355,7 @@
 ||zpbpenn.com^
 ||zpcj8.online^
 ||zpgetworker11.com^
+||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
 ||zplfwuca.com^
 ||zpplsii.xyz^
@@ -82348,6 +82380,7 @@
 ||ooop.zqwlkj.cn^
 ||zqzxz.com^
 ||zr3.icu^
+||zrakos.com^
 ||zreder.com^
 ||zrfzrwqiah.com^
 ||zrkksps.icu^
