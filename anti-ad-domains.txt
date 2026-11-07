@@ -1,5 +1,5 @@
 #TITLE=anti-AD
-#VER=20261105074938
+#VER=20261107185811
 #URL=https://github.com/privacy-protection-tools/anti-AD
 #TOTAL_LINES=110042
 000491b06a.com
